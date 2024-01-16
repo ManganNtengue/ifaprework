@@ -1,0 +1,12 @@
+Here is the result: 
+ hello this is the first text file I created, 
+ hello this is the second text file I created
+Here is the result: 
+ hello this is the first text file I created, 
+ hello this is the second text file I created
+ 
+ fait par ManganHere is the result: 
+ hello this is the first text file I created, 
+ hello this is the second text file I created
+ 
+ fait par Mangan
